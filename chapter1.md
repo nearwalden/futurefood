@@ -10,6 +10,8 @@ farming as a manufacturing process
 
 How food is engineered
 
+* early:  irrigation, rows, monoculture
+
 * growing environment \(soil, weather, weeding\)
 
 * plants
@@ -17,6 +19,8 @@ How food is engineered
 * goes back to earliest deliberate agriculture
 
 Nature fights back
+
+* sources of variation:  genetics, biome, environment
 
 * weather
 
