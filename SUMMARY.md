@@ -1,5 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Farming as Manufacturing](chapter1.md)
+* [How We Got Here](chapter1.md)
+* [Moving Indoors](moving-indoors.md)
+* [Food as Chemistry](food-as-chemistry.md)
+* [The Future of Farming](the-future-of-farming.md)
 

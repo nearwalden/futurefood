@@ -1,44 +1,8 @@
 # The Future of Farming
 
-Organizing ideas:
 
-* food as a product
 
-* engineer's view of food
 
-* battle against variability
-
-* arc of history of food
-
-How food is engineered
-
-* growing environment \(soil, weather, weeding\)
-
-* plants
-
-* goes back to earliest deliberate agriculture
-
-What shapes food production
-
-* economics
-
-* health
-
-* sustainability
-
-* social norms
-
-* locavore
-
-* what's "natural"
-
-* food safety
-
-Nostalgia, romance of food
-
-* reminds us of a way of life
-
-* reflects a place in time
 
 Where we've evolved to: mass production model
 
