@@ -22,6 +22,8 @@ Nature fights back
 
 * sources of variation:  genetics, biome, environment
 
+Examples:
+
 * weather
 
 * evolved resistance
