@@ -1,8 +1,6 @@
-Where we've evolved to: mass production model
+farming as a manufacturing process
 
-* quest to remove variability
-
-food as a product
+* mass production model
 
 * engineer's view of food
 
