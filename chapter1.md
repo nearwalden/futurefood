@@ -1,6 +1,8 @@
-# 
+Where we've evolved to: mass production model
 
-* food as a product
+* quest to remove variability
+
+food as a product
 
 * engineer's view of food
 
@@ -15,6 +17,38 @@ How food is engineered
 * plants
 
 * goes back to earliest deliberate agriculture
+
+Nature fights back
+
+* weather
+
+* evolved resistance
+
+* imperfection of genetic reproduction
+
+* soil
+
+* genes jump ship
+
+* genetic brittleness, monoculture
+
+* human variability
+
+* weeds
+
+* microbiome
+
+* example: end of bananas
+
+Imperfections/variability = waste
+
+* leeching chemicals
+
+* genetic spillover
+
+* damaged food
+
+* wrong time to market
 
 
 

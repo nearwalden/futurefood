@@ -4,5 +4,13 @@ Nostalgia, romance of food
 
 * reflects a place in time
 
+Return of natures tricks
+
+* cover crops
+
+* variation
+
+* "precision ag"
+
 
 
