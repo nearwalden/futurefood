@@ -1,12 +1,12 @@
 # The History and Future of Food from 50,000 Feet
 
-In Daniel Suarez's recent novel, "Change Agent", set in the 2040's, the main character is a _degan_, or someone who eats meat, but only "deathless meat".  While the concept of someone identifying as a degan may have a nice, science-fictiony twist, the idea of vat-grown meat is hardly science fiction.  Even today, in 2017, multiple companies are hard at work producing cultured meat. 
+In Daniel Suarez's recent novel, "Change Agent", set in the 2040's, the main character is a _degan_, or someone who eats meat, but only "deathless meat".  While the concept of someone identifying as a degan may have a science-fictiony twist, the idea of vat-grown meat is hardly science fiction.  Even today, in 2017, multiple companies are hard at work producing cultured meat.
 
 All of what we historically consider food, whether plant- or animal-based, is, at its core, chemicals.  That we could eventually figure out the chemical makeup of foods and replace cellular process and recipes stored in DNA with direct chemical processes and recipes stored in computers feels inevitable.
 
 If this were the only disruptive concept in food, it would be plenty.  But indoor farming has also gained serious traction recently, and genetic manipulation of plants and animals appears on the verge of another revolution with the advent of CRISPR technology. Combined with vat-grown-food these point to disruptive, technology-driven change in our food systems.
 
-Turning from technical to cultural trends, we face a startling contrast.  Culturally we seem to be headed in the opposite direction:  "organic", "grow local", and "heritage varieties" hearken back to earlier periods and methods.  Even as food threatens to disconnect from its historical roots, we seem to be emphasizing that past even more.  \(bulk from farming\)
+Turning from technical to cultural trends, we face a startling contrast.  Culturally we seem to be headed in the opposite direction:  "organic", "grow local", and "heritage varieties" hearken back to earlier periods and methods.  Even as food production threatens to disconnect from its historical roots, food consumption 
 
 How does this work out going forward?  Do we bifurcate into a warring "future food" and "past food" clans, or do these coexist in a new, more diverse food system?  The first step to understanding the answer to these questions is to see how we got to this point.
 
